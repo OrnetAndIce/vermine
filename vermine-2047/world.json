@@ -1,0 +1,23 @@
+{
+  "name": "vermine-2047",
+  "title": "Vermine 2047",
+  "description": "<h3 style=\"text-align: center;\"><strong>Terres d&eacute;vast&eacute;es, villes en ruine ,&nbsp;termiti&egrave;res gigantesques,</strong></h3>\n<h3 style=\"text-align: center;\"><strong>souterrains grouillants de larves et d'insectes, le&nbsp;monde Vermine est l&agrave;,</strong></h3>\n<h3 style=\"text-align: center;\"><strong>&agrave; port&eacute;e de main plus glauque et plus d&eacute;sesp&eacute;r&eacute; que les</strong></h3>\n<h3 style=\"text-align: center;\"><strong>premiers auront pu le d&eacute;crire.</strong></h3>\n<h3 style=\"text-align: center;\"><strong>Mais avant de se plonger dans l'ambiance post-apocalyptique</strong></h3>\n<h3 style=\"text-align: center;\"><strong>d'un univers rong&eacute;&nbsp;</strong><strong style=\"font-size: 1.125em; font-family: var(--font-primary);\">par la charogne et&nbsp;les pr&eacute;dateurs, les joueurs vont devoir&nbsp;muter &agrave; leur tour</strong></h3>\n<h3 style=\"text-align: center;\"><strong>et de simples lecteurs, devenir personnage.</strong></h3>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "VERMINE%202047/IMAGE%20DE%20BASE/VERMINE%202047.webp",
+  "coreVersion": "9.269",
+  "nextSession": null,
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.13.4"
+}

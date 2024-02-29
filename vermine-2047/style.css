@@ -1,0 +1,66 @@
+@font-face {
+    font-family: InterFont;
+    src: url(Inter-VariableFont_slnt,wght.ttf);
+}
+
+.sandbox.sheet .style1{
+    color: blue;
+    font-size: 16px;
+    font-family: InterFont;
+}
+
+.sandbox.sheet .style2{
+    color: rgba(224, 28, 28, 0.897);
+    font-size: 14px;
+    font-family: InterFont;
+}
+
+.sandbox.sheet .style3{
+    color:rgb(12, 163, 93);
+    font-size: 14px;
+    font-family: InterFont;
+}
+.sandbox.sheet .inputstyle1{
+    background: white;
+}
+.sandbox.sheet .inputstyle2{
+    background: rgb(160, 42, 42);
+}
+.sandbox.sheet .inputstyle3{
+    background: rgb(30, 133, 202);
+}
+.sandbox.sheet .headerstyle1{
+    background: red;
+    }
+.sandbox.sheet .headerstyle2{
+    background: rgb(3, 35, 9);
+}
+.sandbox.sheet .headerstyle3{
+    background: rgb(101, 10, 124);
+}
+.sandbox.sheet .headerstyle4{
+    background: rgb(53, 18, 209);
+}
+.sandbox.sheet .headerstyle5{
+    background: rgb(240, 93, 8);
+}
+.sandbox.sheet .headerstyle6{
+    background: rgb(109, 4, 4);
+}
+.sandbox.sheet .headerstyle7{
+    background: rgba(12, 112, 82, 0.733);
+}
+.sandbox.sheet .headerstyle8{
+    background: rgba(85, 38, 10, 0.856);
+}
+/* Character sheet table header colors */
+.sandbox.sheet thead {
+    background-color: #c98f14;
+ }
+  #pause > img {
+    content: url("../ui/cthack-logo.webp");
+    height: 192px;
+    width: 192px;
+    top: -45px;
+    left: calc(50% - 96px);
+  }

@@ -1,0 +1,85 @@
+{"name":"PROTECTION","type":"Item","parent":"UjLyH6ywVvuEUnkW","sorting":"a","sort":0,"color":null,"flags":{},"_id":"0xpnK7c0V1Tgs52e"}
+{"name":"PROP L'HOMME","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"19qVVQVyRXCuD5sm"}
+{"name":"PANEL PROTECTIONS","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"1Bxuef9w1fi1kFI2"}
+{"name":"PANEL SPECIALITE","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"1OrRhXd1RAJ8U8yz"}
+{"name":"PANEL MUNITION","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"3G3cWDdY9HeBKSbq"}
+{"name":"GROUPS EQUIPEMENT","type":"Item","parent":"gZpyECu4uwvff0Ig","sorting":"a","sort":0,"color":null,"flags":{},"_id":"6KbRsV1FsJSGMjrm"}
+{"name":"PANEL IMAGES","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"8Xq5Qx7M11maAsHh"}
+{"name":"AGE","type":"Item","parent":"XuwnNo2iFQX14lnE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"8j2WCvCTCOtep50F"}
+{"name":"TEMPLATE_CREATURE","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"92tErzxkm0tb1dkn"}
+{"name":"GROUP ARMES","type":"Item","parent":"gZpyECu4uwvff0Ig","sorting":"a","sort":0,"color":null,"flags":{},"_id":"9lX1vUvMWdC8WRQm"}
+{"name":"MULTI PANEL MATERIEL","type":"Item","parent":"VIu7HmV1x2MGxZOK","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ATD1f0ru4prYYY20"}
+{"_id":"AlEP9O5Nk6m4n8yS","name":"PROP EXPERIENCE","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"CLeoOTCRm2Rxgpji","name":"PROP SOCIALES","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":800000,"color":null,"flags":{}}
+{"_id":"D498G3hOQESy0zpV","name":"PANELS","type":"Item","parent":"wricRlOPBHcFwWxR","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"name":"MULTI PANEL INFORMATIONS","type":"Item","parent":"VIu7HmV1x2MGxZOK","sorting":"a","sort":0,"color":null,"flags":{},"_id":"DMfCamU6IN9L2LIU"}
+{"name":"TABLES MUNITION","type":"Item","parent":"fsqPBK0aIFLkOsMz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EbWnT3WJROIIGHDj"}
+{"name":"MUNITIONS","type":"Item","parent":"XuwnNo2iFQX14lnE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"F7NUcPyd5dsJlNmo"}
+{"_id":"FS7ysKspMRkkcTJ5","name":"PROP MENTALES","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"name":"PROP LA TERRE","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"GbceWZ380v0L3sa9"}
+{"name":"ARMES","type":"Item","parent":"XuwnNo2iFQX14lnE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"HLlCO7JMaP81hjys"}
+{"name":"MULTI PANEL TABS COMPETENCES","type":"Item","parent":"VIu7HmV1x2MGxZOK","sorting":"a","sort":0,"color":null,"flags":{},"_id":"HioPKUHdnZy7vHVF"}
+{"name":"SPECIALITES","type":"Item","parent":"XuwnNo2iFQX14lnE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IaO1aokASQ43k2WX"}
+{"name":"BOUCLIERS","type":"Item","parent":"UjLyH6ywVvuEUnkW","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IstbTKO7ou4l8z4G"}
+{"name":"PROP LA MACHINE","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Ju7haOTbWUsza9EO"}
+{"name":"PANEL EQUIPEMENT","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"KIzELsZp7XUWqT6v"}
+{"name":"TABLE PROTECTIONS","type":"Item","parent":"fsqPBK0aIFLkOsMz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Kx9D52dz1Xm5UIkS"}
+{"name":"PANEL CARACTERISTIQUES","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"L2h5vKaNvaWEbUvC"}
+{"name":"PANEL BLESSURES","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"LTLuRgfxr3nXRTDY"}
+{"name":"PANEL INFORMATION","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"MQB84JpkwTh2llwG"}
+{"_id":"NMRmUHBIKP4n36Cp","name":"PROP PHYSIQUE","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"name":"PANEL CAPACITES","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"NfIfjWaJsXYvgHol"}
+{"name":"PROP BLESSURE MORTELLE","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"OguK8oSghCIIEOh2"}
+{"name":"MULTI PANEL REGLES","type":"Item","parent":"VIu7HmV1x2MGxZOK","sorting":"a","sort":0,"color":null,"flags":{},"_id":"OvWoOZIUpvjuaYeg"}
+{"name":"MULTI PANEL LANCEZ LES DES","type":"Item","parent":"VIu7HmV1x2MGxZOK","sorting":"a","sort":0,"color":null,"flags":{},"_id":"P76kuamymUdtiqQP"}
+{"name":"PROP L'ANIMAL","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"PJLsNC6fcB1H30ZO"}
+{"name":"PROP INFORMATION","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"QXr2xbq6RfQHFdIm"}
+{"name":"BONUS / MALUS","type":"Item","parent":"XuwnNo2iFQX14lnE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"RCGKr3IKaTPPZz8j"}
+{"name":"PANEL COMPETENCES","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"SRjV2az5iEZyrGwy"}
+{"name":"GROUPS PROTECTIONS","type":"Item","parent":"gZpyECu4uwvff0Ig","sorting":"a","sort":0,"color":null,"flags":{},"_id":"TFbviBY3cpN6o8pP"}
+{"_id":"UF5zg8SHwWww5BeH","name":"PROP MANUELLES","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"name":"PROTECTIONS","type":"Item","parent":"XuwnNo2iFQX14lnE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"UjLyH6ywVvuEUnkW"}
+{"_id":"VIu7HmV1x2MGxZOK","name":"MULTI-PANEL","type":"Item","parent":"wricRlOPBHcFwWxR","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"name":"TABLE CAPACITES","type":"Item","parent":"fsqPBK0aIFLkOsMz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"WOrlplSfSMQVl3b5"}
+{"_id":"X8GGuv4fZI2GHHT7","name":"PROPERTY","type":"Item","parent":"wricRlOPBHcFwWxR","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"name":"GROUPS AGE","type":"Item","parent":"gZpyECu4uwvff0Ig","sorting":"a","sort":0,"color":null,"flags":{},"_id":"XJ31wymQObiuDYyk"}
+{"_id":"XfLEkuHyxvdRNpSu","name":"PROP REPUTATION","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":700000,"color":null,"flags":{}}
+{"name":"GROUP SPECIALITES","type":"Item","parent":"gZpyECu4uwvff0Ig","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Xp1vczyQly8NdoYh"}
+{"_id":"XuwnNo2iFQX14lnE","name":"COMPENDIUMS","type":"Item","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"GROUP MUNITION","type":"Item","parent":"gZpyECu4uwvff0Ig","sorting":"a","sort":0,"color":null,"flags":{},"_id":"YPohgHT3avKrmAJu"}
+{"_id":"a8MoJFAlVNsaqtno","name":"PROP PROFIL","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":600000,"color":null,"flags":{}}
+{"_id":"aIHH8xpUshrsZ2oy","name":"SHEETLABS","type":"Item","parent":"wricRlOPBHcFwWxR","sorting":"a","sort":800000,"color":null,"flags":{}}
+{"name":"PANEL ARMES","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ccnHaZoVJVsnfQOI"}
+{"name":"PANEL VIDE","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"dtx7mqHQSXrAIhEr"}
+{"name":"PROP EFFORT","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"eVVAvfbotay3P3di"}
+{"name":"TABLE SPECIALITE","type":"Item","parent":"fsqPBK0aIFLkOsMz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"eYhddKHZm7s4JApo"}
+{"name":"TABLE EQUIPEMENT","type":"Item","parent":"fsqPBK0aIFLkOsMz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"f0Py3rKrpcvoQXm8"}
+{"name":"TEMPLATE_ACTOR","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"fe7AV7n62rdeJxOa"}
+{"_id":"fsD3aquu4mekEinp","name":"PROP LA SURVIE","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":0,"color":null,"flags":{}}
+{"_id":"fsqPBK0aIFLkOsMz","name":"TABLES","type":"Item","parent":"wricRlOPBHcFwWxR","sorting":"a","sort":700000,"color":null,"flags":{}}
+{"_id":"gIIay094ap0iJBvQ","name":"GROUP PROP TOTEM","type":"Item","parent":"gZpyECu4uwvff0Ig","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"PANEL PERSONNAGE","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"gQchUfcSF3L16gJE"}
+{"_id":"gZpyECu4uwvff0Ig","name":"GROUPS","type":"Item","parent":"wricRlOPBHcFwWxR","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"name":"GROUP CAPACITES","type":"Item","parent":"gZpyECu4uwvff0Ig","sorting":"a","sort":0,"color":null,"flags":{},"_id":"gyS1zQwquQZpfYZt"}
+{"_id":"i2dZcaaDqmsvJhs7","name":"PROP NOM","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":1050000,"color":null,"flags":{}}
+{"name":"PROP BLESSURE GRAVE","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ib1H5XWX7VMIeEpR"}
+{"name":"PROP SANG FROID","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"jT5kSg0VnOysom57"}
+{"name":"GROUP BONUS MALUS","type":"Item","parent":"gZpyECu4uwvff0Ig","sorting":"a","sort":0,"color":null,"flags":{},"_id":"joiQdGYXluo9kIwu"}
+{"name":"PANEL LANCEZ LES DES","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"kEgATKfNF4ern5DX"}
+{"_id":"kkefMD0Uq0kYVgPH","name":"TABLE AGE","type":"Item","parent":"fsqPBK0aIFLkOsMz","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"name":"TEMPLATE_PNJ","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"lw4B0qymQay8szf3"}
+{"name":"PANEL BONUS/MALUS","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"m9olgp2Mj3DILprW"}
+{"name":"TABLE ARMES","type":"Item","parent":"fsqPBK0aIFLkOsMz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ngFixVhZVTjamRfz"}
+{"name":"ARMES A FEU","type":"Item","parent":"HLlCO7JMaP81hjys","sorting":"a","sort":0,"color":null,"flags":{},"_id":"o7RTrixB6ZfyN9wH"}
+{"name":"PROP L'ARME","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"q37FoGpAfyEG0Mlz"}
+{"name":"PANEL RESERVES","type":"Item","parent":"D498G3hOQESy0zpV","sorting":"a","sort":0,"color":null,"flags":{},"_id":"qIuX9RHdTdV2vjOO"}
+{"name":"TABLE BONUS/MALUS","type":"Item","parent":"fsqPBK0aIFLkOsMz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"sCmqy3M43kMZP9c1"}
+{"name":"MODELE","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"sb4PMPlOyqb3MPiQ"}
+{"name":"TOTEM","type":"Item","parent":"XuwnNo2iFQX14lnE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"uNEJakWELv7FWXoJ"}
+{"name":"PROP BLESSURE LEGERE","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"v9kxxjpFb3nfBK43"}
+{"_id":"vP56p1yVfayE3DfS","name":"TABLE TOTEM","type":"Item","parent":"fsqPBK0aIFLkOsMz","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"CAPACITES","type":"Item","parent":"XuwnNo2iFQX14lnE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"wLSU46pzOclvb85L"}
+{"_id":"wricRlOPBHcFwWxR","name":"TEMPLATE_ACTOR","type":"Item","parent":null,"sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"x0bXsASaitQ9VrSs","name":"MULTI PANEL TABS PERSONNAGE","type":"Item","parent":"VIu7HmV1x2MGxZOK","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"PROP LANCEZ LES DES","type":"Item","parent":"X8GGuv4fZI2GHHT7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"yXGuFjta7qPFuTg3"}
+{"name":"EQUIPEMENT","type":"Item","parent":"XuwnNo2iFQX14lnE","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zcKcnMGRR9AGEjc4"}
